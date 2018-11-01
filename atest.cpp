@@ -1,3 +1,5 @@
+#include<vector>
+
 int solution3(vector<int>& A, int X) {
  int N = A.size();
  if (N == 0) {
